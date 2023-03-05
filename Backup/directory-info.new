@@ -1,0 +1,10 @@
+/home/arsany/Desktop/lab2/6927-lab2/normalway/mdir:
+total 4
+-rw-rw-r-- 1 arsany arsany    0 Oct 20 03:07 awbg
+-rw-rw-r-- 1 arsany arsany    0 Oct 17 11:04 file11
+drwxrwxr-x 2 arsany arsany 4096 Oct 17 18:46 GG
+
+/home/arsany/Desktop/lab2/6927-lab2/normalway/mdir/GG:
+total 0
+-rw-rw-r-- 1 arsany arsany 0 Oct 17 11:04 abd
+-rw-rw-r-- 1 arsany arsany 0 Oct 17 11:04 abg
