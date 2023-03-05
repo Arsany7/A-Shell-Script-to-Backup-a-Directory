@@ -1,4 +1,3 @@
-Student Name: Arsany Mousa Fathy		ID: 6927		Group:3		Section:2
 #Project name: A Shell Script to Backup a Directory
 #Project Description:
 Some important directories need to be backed up every while, as a result, this program backups the target directory to another backup directory every detected period of time and to avoid memory leakage it has number of maximum backups after which it will delete the old versions keeping only the newest ones undeleted.
